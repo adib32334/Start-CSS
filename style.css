@@ -1,15 +1,18 @@
 .div1{
-    width: 500px;
-    height: 500px;
-    background-color: skyblue;
-    border: 5px solid black;
-    margin-top: 80px;
-    margin-left: 50px;
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-right: 50px;
 }
-#div2{
-    width: 500px;
-    height: 500px;
-    background-color: skyblue;
-    border: 5px solid black;
-    margin: 50px 80px 70px 90px;
+p{
+    color: white;
+}
+.div2{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    padding: 50px 20px 80px 90px;
 }
