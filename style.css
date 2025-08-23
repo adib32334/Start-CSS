@@ -1,10 +1,24 @@
-#h11{
-    color: crimson;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    margin: 50px;
+.div1{
+    height: 500px;
+    width: 500px;
+    background-color: skyblue;
+    border: 5px solid black;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 60px;
+    margin-bottom: 60px;
 }
-h2{
-    text-align: center;
-    color: cyan; 
+.div2{
+    height: 500px;
+    width: 500px;
+    background-color: skyblue;
+    border: 5px solid black;
+    margin: 50px 70px 80px 90px;
+}
+.div3{
+    height: 500px;
+    width: 500px;
+    background-color: skyblue;
+    border: 5px solid black;
+    margin: auto;
 }
