@@ -1,9 +1,15 @@
-.p1{
-    border-width: 5px;
-    border-style: solid;
-    border-color: red;
-    border-radius: 25px;
+.div1{
+    width: 500px;
+    height: 500px;
+    background-color: skyblue;
+    border: 5px solid black;
+    margin-top: 80px;
+    margin-left: 50px;
 }
-#p2{
-    border: 2px dotted gray;
+#div2{
+    width: 500px;
+    height: 500px;
+    background-color: skyblue;
+    border: 5px solid black;
+    margin: 50px 80px 70px 90px;
 }
