@@ -1,19 +1,4 @@
-h1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-}
-/* coustom Font */
-#p1{
-    /* link tag used */
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
-    font-style: italic;
-    font-size: 3vw;
-}
-
-/* import Useed */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-#p2{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
+.fa-brands{
+    font-size: 50px;
+    color: blue;
 }
