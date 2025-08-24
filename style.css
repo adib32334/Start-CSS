@@ -1,10 +1,14 @@
-#h11{
-    color: crimson;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
+#p1{
     margin: 50px;
+    border: 2px solid black;
+    outline-width: 4px;
+    outline-style: solid;
+    outline-color: teal;
+    outline-offset: 10px;
 }
-h2{
-    text-align: center;
-    color: cyan; 
+#p2{
+    margin: 50px;
+    border: 2px solid black;
+    outline: 5px solid teal;
+    outline-offset: 10px;
 }
