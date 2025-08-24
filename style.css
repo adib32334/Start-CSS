@@ -1,11 +1,10 @@
-table,th,td{
-    border: 2px solid black;
-    border-collapse: collapse;
+h1{
     text-align: center;
+    display: inline-block;   
 }
-table{
-    width: 100%;
+span{
+    font-size: 20px;
 }
-th,td{
-    color: cornflowerblue;
+ul{
+    display: inline;
 }
