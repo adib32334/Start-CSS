@@ -1,11 +1,11 @@
-#ul1{
-    list-style-type: decimal-leading-zero;
-    list-style-position: outside;
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
 }
-#ul2{
-    list-style-image: url(https://i.pinimg.com/1200x/09/0b/bc/090bbcffd9c72bc9dbcc34506b7cdcc4.jpg);
-    list-style-position: outside;
+table{
+    width: 100%;
 }
-#ul3{
-    list-style: square inside url(https://i.pinimg.com/736x/a3/6a/69/a36a69fbfe14ec8a7ffedd8a60805ecb.jpg);
+th,td{
+    color: cornflowerblue;
 }
