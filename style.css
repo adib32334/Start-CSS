@@ -1,10 +1,17 @@
-h1{
-    text-align: center;
-    display: inline-block;   
+.p2{
+    border: 2px solid black;
+    width: 400px;
+    margin: auto;
 }
-span{
-    font-size: 20px;
+.p1{
+    border: 2px solid black;
+    max-width:400;
+    margin: auto;
 }
-ul{
-    display: inline;
+.p3{
+    border: 2px solid black;
+    height: 200px;
+    width:400;
+    margin: auto;
+    overflow: auto;
 }
