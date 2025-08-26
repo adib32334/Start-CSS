@@ -1,34 +1,14 @@
-#img1{
-    width: 400px;
-    float: left;
-}
-#img2{
-    width: 400px;
-    float: right;
-}
-p{
-    clear: both;
-}
-div{
-    float: left;
-}
-#div1{
-    width: 300px;
-    height: 200px;
+#a1:hover{
+    color: white;
     background-color: black;
 }
-#div2{
-    width: 300px;
-    height: 200px;
-    background-color: rgb(219, 20, 20);
+h2:nth-child(3){
+    color: red;
 }
-#div3{
-    width: 300px;
-    height: 200px;
-    background-color: rgb(5, 245, 113);
+p::first-letter{
+    font-size: 50px;
+    color: aqua;
 }
-#div4{
-    width: 300px;
-    height: 200px;
-    background-color: tomato;
+h1::after{
+    content: url(https://i.pinimg.com/736x/87/2a/53/872a53adae6d5eb103b228e2c7f590b3.jpg);
 }
