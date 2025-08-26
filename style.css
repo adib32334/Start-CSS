@@ -1,14 +1,22 @@
-#a1:hover{
-    color: white;
-    background-color: black;
+img{
+    width: 400px;
 }
-h2:nth-child(3){
-    color: red;
+img:hover{
+    opacity: 0.5;
 }
-p::first-letter{
+#box1{
+    width: 700px;
+    height: 400px;
+    background: url(https://i.pinimg.com/1200x/e4/14/da/e414da7e55508a6e6674060b0db53c4f.jpg) no-repeat;
+    overflow: hidden;
+}
+p{
     font-size: 50px;
-    color: aqua;
 }
-h1::after{
-    content: url(https://i.pinimg.com/736x/87/2a/53/872a53adae6d5eb103b228e2c7f590b3.jpg);
+#box2 p{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 100px;
+    opacity: 0.5;
 }
