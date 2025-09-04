@@ -1,22 +1,19 @@
-img{
-    width: 400px;
+h1{
+    color: teal;
 }
-img:hover{
-    opacity: 0.5;
-}
-#box1{
-    width: 700px;
-    height: 400px;
-    background: url(https://i.pinimg.com/1200x/e4/14/da/e414da7e55508a6e6674060b0db53c4f.jpg) no-repeat;
-    overflow: hidden;
+h2{
+    color: rgba(0, 240, 128, 0.1);
 }
 p{
-    font-size: 50px;
+    color: #8EB69B;
 }
-#box2 p{
-    text-align: center;
-    background-color: white;
-    padding: 10px;
-    margin-top: 100px;
-    opacity: 0.5;
+.box{
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(45deg,#686de0,#130f40);
+}
+.box1{
+    height: 400px;
+    width: 400px;
+    background: radial-gradient(#535c68,#6ab04c);
 }
